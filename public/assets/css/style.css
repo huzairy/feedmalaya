@@ -175,6 +175,13 @@ h2, h3
 	font-size:0.9em;
 }
 
+.page p
+{
+	padding-left:105px;
+	font-size:0.9em;
+	line-height:190%;
+}
+
 .hentry h3
 {
 	display:inline;
