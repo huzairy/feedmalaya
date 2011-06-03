@@ -248,6 +248,7 @@ h2, h3
 	height:50px;
 	border:1px solid #ccc;
 	margin:15px 10px 10px 0;
+	padding:1px;
 }
 
 .profile p, .developers p
@@ -304,6 +305,25 @@ h2, h3
 .previous
 {
 	margin-left:105px;
+}
+
+/* Single Item */
+#likes_count
+{
+	margin-top:-3px;
+}
+
+#likes_count div
+{
+	margin-left:-10px;
+}
+
+#likes_count img
+{
+	width:39px;
+	height:39px;
+	border:1px solid #e5e5e5;
+	margin:11px 0 0 10px;
 }
 
 /* Footer section */
