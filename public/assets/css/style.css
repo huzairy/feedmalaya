@@ -172,7 +172,7 @@ h2, h3
 {
 	display:inline;
 	font-size:1em;
-	background:transparent url(../images/external.png) no-repeat top right;
+	background:transparent url(../img/external.png) no-repeat top right;
 	padding-right:22px;
 	font-weight:bold;
 }
@@ -256,19 +256,19 @@ h2, h3
 
 .like_control a
 {
-	background:transparent url(../images/heart.png) no-repeat -1px left;
+	background:transparent url(../img/heart.png) no-repeat -1px left;
 	padding-left:20px;
 }
 
 .hide_control a
 {
-	background:transparent url(../images/cross.png) no-repeat -1px left;
+	background:transparent url(../img/cross.png) no-repeat -1px left;
 	padding-left:20px;
 }
 
 .suggest_control a
 {
-	background:transparent url(../images/plus_circle.png) no-repeat -1px left;
+	background:transparent url(../img/plus_circle.png) no-repeat -1px left;
 	padding-left:20px;
 }
 
